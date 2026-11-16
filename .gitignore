@@ -6,3 +6,5 @@ venv/
 .DS_Store
 Thumbs.db
 benchmark.db
+performance_graph.png
+benchmark_results.csv
